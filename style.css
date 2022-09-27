@@ -45,7 +45,7 @@ p {
     color: black;
 }
 
-.foto1{
+#foto1 {
     width: 100%;
     height: 350px;
 }
@@ -55,6 +55,6 @@ strong {
     color: rgb(0, 225, 255);
 }
 
-.foto2 {
+#foto2 {
     width: 350px;
 }
