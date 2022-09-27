@@ -39,6 +39,10 @@ h1 {
     color: red;
 }
 
+p {
+    color: black;
+}
+
 .foto1{
     width: 100%;
     height: 350px;
