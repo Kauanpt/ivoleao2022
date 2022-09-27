@@ -43,3 +43,8 @@ h1 {
     width: 100%;
     height: 350px;
 }
+
+strong {
+    font-size: 25px;
+    color: rgb(0, 225, 255);
+}
